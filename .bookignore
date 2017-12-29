@@ -1,0 +1,8 @@
+.bookignore
+.gitignore
+.gitkeep
+/LICENSE.md
+/README.md
+package-lock.json
+package.json
+_redirects
